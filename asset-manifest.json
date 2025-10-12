@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Project-Router/static/css/main.3982bb5f.css",
+    "main.js": "/React-Project-Router/static/js/main.cd72a32b.js",
+    "static/media/logo.png": "/React-Project-Router/static/media/logo.8302021de9fe139838e9.png",
+    "static/media/spinner.svg": "/React-Project-Router/static/media/spinner.b17c7672178f0d142c4f4a1ba6d25957.svg",
+    "index.html": "/React-Project-Router/index.html",
+    "main.3982bb5f.css.map": "/React-Project-Router/static/css/main.3982bb5f.css.map",
+    "main.cd72a32b.js.map": "/React-Project-Router/static/js/main.cd72a32b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3982bb5f.css",
+    "static/js/main.cd72a32b.js"
+  ]
+}
