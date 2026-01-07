@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="./react-router-banner.png" alt="React Router Project Banner" width="800"/>
-</p>
 
 <h1 align="center">📌 React Router Project – Modern Multipage Website Layout </h1>
 
