@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/React-Project-Router/static/css/main.e49b1e18.css",
-    "main.js": "/React-Project-Router/static/js/main.0ffb85c5.js",
+    "main.js": "/React-Project-Router/static/js/main.38a51c97.js",
     "static/media/spinner.svg": "/React-Project-Router/static/media/spinner.b17c7672178f0d142c4f4a1ba6d25957.svg",
     "static/media/designv.svg": "/React-Project-Router/static/media/designv.9f215bcea6123805b94a251910d286f5.svg",
     "index.html": "/React-Project-Router/index.html",
     "main.e49b1e18.css.map": "/React-Project-Router/static/css/main.e49b1e18.css.map",
-    "main.0ffb85c5.js.map": "/React-Project-Router/static/js/main.0ffb85c5.js.map"
+    "main.38a51c97.js.map": "/React-Project-Router/static/js/main.38a51c97.js.map"
   },
   "entrypoints": [
     "static/css/main.e49b1e18.css",
-    "static/js/main.0ffb85c5.js"
+    "static/js/main.38a51c97.js"
   ]
 }
