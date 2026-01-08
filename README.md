@@ -9,6 +9,10 @@
 
 <h1 align="center">📌 React Router Project – Modern Multipage Website Layout </h1>
 
+<p align="center">
+  A modern, responsive React application demonstrating advanced React Router v6 concepts with protected routes and dynamic navigation.
+</p>
+
 <div align="center">
   <h3>
     <a href="https://umit8098.github.io/React-Project-Router/">
