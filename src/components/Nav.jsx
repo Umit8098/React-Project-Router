@@ -1,5 +1,5 @@
 // import logo from '../img/logo.png';
-import design from '../img/design.svg';
+import designv from '../img/designv.svg';
 import { Link, NavLink } from 'react-router-dom';
 function Nav() {
   return (
@@ -8,7 +8,7 @@ function Nav() {
 
         <Link to="/" className="navbar-brand d-flex align-items-center">
           {/* <img src={logo} alt="" /> */}
-          <img src={design} alt="" className="brand-logo" />
+          <img src={designv} alt="" className="brand-logo" />
           <span class="brand-text ms-2">UmitDev</span>
         </Link>
         
