@@ -10,7 +10,7 @@
 <h1 align="center">📌 React Router Project – Modern Multipage Website Layout </h1>
 
 <p align="center">
-  A modern, responsive React application demonstrating advanced React Router v6 concepts with protected routes and dynamic navigation.
+  A modern React Router v6 project demonstrating dynamic routing, private routes, and API-driven pages.
 </p>
 
 <div align="center">
@@ -23,6 +23,10 @@
       📂 Repository
     </a>
   </h3>
+</div>
+
+<div align="center"> 
+  <img src="./router-project.gif" alt="router-project-demo" width="700"/> 
 </div>
 
 ## 📚 Navigation
@@ -41,11 +45,7 @@
 
 ## ✨ Overview
 
-<div align="center"> 
-  <img src="./router-project.gif" alt="router-project-demo" width="700"/> 
-</div>
-
-A responsive multi-page web application built with React Router, Bootstrap, and FontAwesome, focusing on dynamic routing, API data fetching, and component-based architecture.
+A responsive multi-page React application built with React Router v6, Bootstrap, and FontAwesome, focusing on dynamic routing, route protection, and API-driven content.
 
 
 ## 📖 Description
