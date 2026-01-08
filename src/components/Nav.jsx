@@ -1,12 +1,17 @@
-import logo from '../img/logo.png';
+// import logo from '../img/logo.png';
+import design from '../img/design.svg';
 import { Link, NavLink } from 'react-router-dom';
 function Nav() {
   return (
     <nav className="navbar navbar-expand-md navbar-light">
       <div className="container-fluid">
-        <Link to="/" className="navbar-brand">
-          <img src={logo} alt="" />
+
+        <Link to="/" className="navbar-brand d-flex align-items-center">
+          {/* <img src={logo} alt="" /> */}
+          <img src={design} alt="" className="brand-logo" />
+          <span class="brand-text ms-2">UmitDev</span>
         </Link>
+        
         <button
           className="navbar-toggler"
           type="button"
@@ -20,9 +25,12 @@ function Nav() {
             
             <li className="nav-item ms-auto">
               <NavLink
-                style={({ isActive }) => ({ color: isActive && 'red' })}
                 to="/"
-                className="nav-link active"
+                // style={({ isActive }) => ({ color: isActive && 'red' })}
+                // className="nav-link active"
+                className={({ isActive }) =>
+                  isActive ? "nav-link active-link" : "nav-link"
+                }
                 aria-current="page"
               >
                 Home

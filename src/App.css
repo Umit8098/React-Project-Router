@@ -36,3 +36,39 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* Logo */
+.brand-logo {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+}
+
+/* Yazı */
+.brand-text {
+  font-size: 1.3rem;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  color: #646465; /* Bootstrap dark */
+}
+
+/* Hover efekti */
+.navbar-brand:hover .brand-text {
+  color: #dc3545; /* Bootstrap danger (kırmızı) */
+  transition: color 0.2s ease;
+}
+
+.nav-link {
+  font-weight: 500;
+  color: #212529;
+}
+
+.nav-link:hover {
+  color: #dc3545;
+}
+
+.active-link {
+  color: #dc3545 !important;
+  border-bottom: 2px solid #dc3545;
+}
