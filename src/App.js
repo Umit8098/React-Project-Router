@@ -13,7 +13,7 @@ import PrivateRouter from './pages/PrivateRouter';
 import { Navigate } from 'react-router-dom'
 
 // BrowserRouter, Routes, Route import;
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { Routes, Route } from 'react-router-dom';
 
 //* İç içe sayfaları göstermek icin Nested Route kullanilabilir.
 
@@ -34,7 +34,6 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 function App() {
   return (
     <div className="container">
-      <BrowserRouter basename='/React-Project-Router'>
 
         <Nav />
       
@@ -68,7 +67,6 @@ function App() {
       
         <Footer />
       
-      </BrowserRouter>
     </div>
   );
 }
