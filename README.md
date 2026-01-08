@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/React-18-blue?logo=react" />
+  <img src="https://img.shields.io/badge/React%20Router-v6-red?logo=reactrouter" />
+  <img src="https://img.shields.io/badge/Bootstrap-5-purple?logo=bootstrap" />
+  <img src="https://img.shields.io/badge/API-JSONPlaceholder-orange" />
+  <img src="https://img.shields.io/badge/Deployed-GitHub%20Pages-black?logo=github" />
+</p>
 
 
 <h1 align="center">📌 React Router Project – Modern Multipage Website Layout </h1>
