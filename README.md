@@ -5,7 +5,7 @@
 <div align="center">
   <h3>
     <a href="https://umit8098.github.io/React-Project-Router/">
-      🖥️ Demo
+      🖥️ Live Demo
     </a>
      | 
     <a href="https://github.com/Umit8098/React-Project-Router.git">
@@ -14,9 +14,8 @@
   </h3>
 </div>
 
-## Table of Contents
+## 📚 Navigation
 
-- [Table of Contents](#table-of-contents)
 - [✨ Overview](#-overview)
 - [📖 Description](#-description)
 - [🚀 Features](#-features)
@@ -37,7 +36,6 @@
 
 A responsive multi-page web application built with React Router, Bootstrap, and FontAwesome, focusing on dynamic routing, API data fetching, and component-based architecture.
 
----
 
 ## 📖 Description
 
@@ -51,7 +49,6 @@ A responsive multi-page web application built with React Router, Bootstrap, and 
 
 - It also includes Bootstrap integration, FontAwesome icons, and reusable components for a modular and scalable React structure.
 
----
 
 ## 🚀 Features
 
@@ -64,7 +61,6 @@ A responsive multi-page web application built with React Router, Bootstrap, and 
 - 💅 Bootstrap & FontAwesome integration for styling
 - 🚀 Deployed on GitHub Pages
   
----
 
 ## 🗂️ Project Skeleton
 
@@ -100,7 +96,6 @@ src/
 
 ```
 
----
 
 ## 🛠️ Built With
 
@@ -111,7 +106,6 @@ src/
 - [JSONPlaceholder API](https://jsonplaceholder.typicode.com/) 
 - [GitHub Pages](https://pages.github.com/) 
 
----
 
 ## ⚡ How To Use
 
@@ -133,19 +127,13 @@ $ npm install
 $ npm start
 ```
 
----
 
 ## 📌 About This Project
 
 - This project was built to practice and demonstrate advanced React Router concepts while creating a clean, responsive, and multi-page layout.
 - It showcases practical usage of navigation, route protection, and API-driven dynamic content within a modern React environment.
 
-```text
-💡 “Bu proje React Router konusundaki bilgimi pekiştirmek ve API tabanlı dinamik içerik oluşturmayı pratik etmek amacıyla geliştirilmiştir.”
-— Ümit Arat
-```
 
----
 
 ## 🙏 Acknowledgements
 
