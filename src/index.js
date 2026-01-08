@@ -12,11 +12,16 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
 // BrowserRouter import;
-import { BrowserRouter } from "react-router-dom"
+// import { BrowserRouter } from "react-router-dom"
+
+// GitHub Pages + SPA router refresh handling..
+import { HashRouter } from "react-router-dom";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <BrowserRouter basename='/React-Project-Router'>
+    // <BrowserRouter basename='/React-Project-Router'>
+    <HashRouter>
         <App />
-    </BrowserRouter>
+    </HashRouter>
+    // </BrowserRouter>
 );
