@@ -34,7 +34,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 function App() {
   return (
     <div className="container">
-      <BrowserRouter>
+      <BrowserRouter basename='/React-Project-Router'>
 
         <Nav />
       
